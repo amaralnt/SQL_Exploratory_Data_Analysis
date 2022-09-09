@@ -1,3 +1,3 @@
 # SQLExploratoryAnalysis
 
-In this repository I explore data sets and test some SQL concepts :)
+In this repository I explore data sets while testing some SQL concepts :)
