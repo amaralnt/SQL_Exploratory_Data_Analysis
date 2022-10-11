@@ -1,3 +1,3 @@
 # SQL Studies
 
-In this repository I explore data sets while testing some SQL concepts :)
+I use this repository to explore datasets while testing some SQL concepts :)
